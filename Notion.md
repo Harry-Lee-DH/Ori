@@ -16,7 +16,7 @@
 
 # 1.5 강의 핵심
 
-![image.png](/root/Ori/image.png)
+![image.png](./image.png)
 ## 질문
 
 chmod +r 읽기권한 부여
