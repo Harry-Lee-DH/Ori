@@ -16,8 +16,7 @@
 
 # 1.5 강의 핵심
 
-![image.png](25%201%205%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%201738eca115b3800592afe6b8d2c23a62/image.png)
-
+![image.png](/root/Ori/image.png)
 ## 질문
 
 chmod +r 읽기권한 부여
